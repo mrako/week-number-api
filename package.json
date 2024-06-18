@@ -1,0 +1,14 @@
+{
+  "name": "week-number-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Marko Klemetti",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.15.3"
+  }
+}
